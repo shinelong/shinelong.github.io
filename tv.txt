@@ -851,9 +851,9 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 翡翠台,http://sz.l68.fun:9000/bysid/1
 翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://146.56.153.245:8006/bysid/1
-翡翠台,http://r.jdshipin.com/62WM7
+翡翠台1,http://r.jdshipin.com/qClQf
+翡翠台2,http://146.56.153.245:8006/bysid/1
+翡翠台3,http://r.jdshipin.com/62WM7
 TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 无线新闻台(备),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
