@@ -1,7 +1,6 @@
 广东,#genre#
 广东珠江,http://218.17.143.73:9901/tsfile/live/1000_1.m3u8?key=txiptv&url=tvzb.com
 翡翠台,http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/n90gt#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxCgMBzU9XfDMGLwaGxto_X4/ts
-翡翠台(备),mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749
 翡翠J2台,http://r.jdshipin.com/Nr5jq#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 RTHK32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 国语译制电影,http://epg.112114.xyz/douyu/2436390
@@ -850,7 +849,12 @@ CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
-?翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
+翡翠台,http://sz.l68.fun:9000/bysid/1
+翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://146.56.153.245:8006/bysid/1
+翡翠台,http://r.jdshipin.com/62WM7
+TVB 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 J2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 无线新闻台(备),mitv://147.135.39.171:9906/657c8f940000cdb0a955b82762a73640
 无线新闻台,mitv://147.135.39.171:9906/657c8f93000dad85a955b78b7a3a4c4f
