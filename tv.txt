@@ -613,6 +613,8 @@ GolfChannel,mitv://135.148.104.228:19806/65619e930003f0fc6728c71226a25f2d
 港台电视31,mitv://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,mitv://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOY TV,mitv://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
+翡翠台,http://163.197.220.138/live/smt2.php?id=jade_twn
+翡翠台,http://163.197.220.138/live/smt2.php?id=jade_mike
 翡翠台,http://sz.l68.fun:9000/bysid/1
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://146.56.153.245:8006/bysid/1
@@ -674,6 +676,21 @@ Clarity4K,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxBCHdoE4ERuw-ff
 凤凰资讯台,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰香港台,http://php.17186.eu.org/phtv/fhxg.m3u8
 无线财经·资讯台4K,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
+无线新闻,http://163.197.220.138/live/smt2.php?id=inews_twn
+J2,http://163.197.220.138/live/smt2.php?id=j2_twn
+J2,http://163.197.220.138/live/smt2.php?id=j2_hkdavid
+明珠台,http://163.197.220.138/live/smt2.php?id=pearl_twn
+明珠台,http://163.197.220.138/live/smt2.php?id=pearl_hkdavid
+无线财经资讯台,http://163.197.220.138/live/smt2.php?id=tvbcaijing_twn
+TVB星河,http://163.197.220.138/live/smt2.php?id=tvbxinhe_twn
+viuTV,http://163.197.220.138/live/smt2.php?id=viu1_twn
+viuTVsix,http://163.197.220.138/live/smt2.php?id=viusix_twn
+RTHK-31,http://163.197.220.138/live/smt2.php?id=rhk31_twn
+RTHK-32,http://163.197.220.138/live/smt2.php?id=rhk32_twn
+凤凰卫视,http://163.197.220.138/live/smt2.php?id=phoenixtv_hd
+凤凰资讯,http://163.197.220.138/live/smt2.php?id=phoenixinfo_hd
+凤凰香港,http://163.197.220.138/live/smt2.php?id=hkphoenix_twn
+Viu TV 69,http://163.197.220.138/live/smt2.php?id=viutv69_hkdavid
 闽南,#genre#
 民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
@@ -1253,25 +1270,6 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f
 爱尔达影剧台,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
 亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 
-港澳频道,#genre#
-翡翠台,http://163.197.220.138/live/smt2.php?id=jade_twn
-翡翠台,http://163.197.220.138/live/smt2.php?id=jade_mike
-翡翠台(备),mitv://147.135.39.171:9906/657c8f940005cf8fa955b96f23e11195
-无线新闻,http://163.197.220.138/live/smt2.php?id=inews_twn
-J2,http://163.197.220.138/live/smt2.php?id=j2_twn
-J2,http://163.197.220.138/live/smt2.php?id=j2_hkdavid
-明珠台,http://163.197.220.138/live/smt2.php?id=pearl_twn
-明珠台,http://163.197.220.138/live/smt2.php?id=pearl_hkdavid
-无线财经资讯台,http://163.197.220.138/live/smt2.php?id=tvbcaijing_twn
-TVB星河,http://163.197.220.138/live/smt2.php?id=tvbxinhe_twn
-viuTV,http://163.197.220.138/live/smt2.php?id=viu1_twn
-viuTVsix,http://163.197.220.138/live/smt2.php?id=viusix_twn
-RTHK-31,http://163.197.220.138/live/smt2.php?id=rhk31_twn
-RTHK-32,http://163.197.220.138/live/smt2.php?id=rhk32_twn
-凤凰卫视,http://163.197.220.138/live/smt2.php?id=phoenixtv_hd
-凤凰资讯,http://163.197.220.138/live/smt2.php?id=phoenixinfo_hd
-凤凰香港,http://163.197.220.138/live/smt2.php?id=hkphoenix_twn
-Viu TV 69,http://163.197.220.138/live/smt2.php?id=viutv69_hkdavid
 台湾频道,#genre#
 TVBS新闻台,http://163.197.220.138/live/smt2.php?id=tvbs_n
 TVBS欢乐台,http://163.197.220.138/live/smt2.php?id=tvbshuanle_twn
