@@ -1119,7 +1119,7 @@ GmmChannel,http://zhibotv.cf/smt.php?id=gmmchannel_pat
 民视新闻 hd,http://zhibotv.cf/jsepg.php?playurl=https://epg.pw/stream/76f0ee00f9e59f698ff954d5f79bf2c7f5ecbc83a47381bb74906acd165bd48c.m3u8
 經典電影臺,http://zhibotv.cf/jsepg.php?playurl=https://epg.pw/stream/d0bc3876c3c39e995f65f2a459449587e1bb4cd79a211a228e8837b5bdd38bf9.ctv
 緯來體育,http://zhibotv.cf/jsepg.php?playurl=https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-晴天央卫,#genre#
+央视卫视,#genre#
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
 CCTV3,mitv://generationnexxxt.com:19806/784f6703531044be9cee14b793948d30
@@ -1166,7 +1166,7 @@ CHC动作电影,mitv://generationnexxxt.com:19806/1b4ebad47ed94c6291646a4a5d1ff3
 广东影视,mitv://generationnexxxt.com:19806/f2dbc62d3b0b4af3ac2420174eadf202
 CHC高清电影,mitv://generationnexxxt.com:19806/02385419696a411db959037c2190cf11
 CHC家庭影院,mitv://generationnexxxt.com:19806/28fb3856055c452db8f17441c99f21cf
-晴天港台,#genre#
+湾湾good,#genre#
 民视,mitv://135.148.104.228:19806/7b046996e7d5417eb4a619194072bbc0
 民视,mitv://135.148.104.228:19806/7b046996e7d5417eb4a619194072bbc0
 台视,mitv://135.148.104.228:19806/9868c18e3c0940cd8aa003d9ae54f862
