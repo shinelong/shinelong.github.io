@@ -5097,3 +5097,4 @@ Nick Jr,http://163.197.220.138/live/smt2.php?id=Nickjr
 [伊朗]Payvand TV (720p),https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
 [伊朗]PBC Tapesh TV (720p),http://iptv.tapesh.tv/tapesh/playlist.m3u8
 [伊朗]PBC Tapesh TV,http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+频道1_25869,#genre#
