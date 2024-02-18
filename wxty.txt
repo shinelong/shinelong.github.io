@@ -1,6 +1,2 @@
 五星体育,#genre#
-上海五星体育0,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
-上海五星体育1,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-上海五星体育2,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-上海五星体育3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-上海五星体育4,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+上海五星体育0,https://cdn.ggapk.net/live/tv?id=835dfpSjhRPcV55KfE6Ht4WEjJ2jMSeOG6N366Bh2dXmOfHk5nPhfxhCcSRwRSm-UJMk6XMhquaIjaw8AkC2JQ3UbAjGWbmLu7Rb-hEZbUGYJq77WsTSJrPo28wnK-_JzKnmrKvZimqVeQxSuPnBTU7Y7lrF7j6btMcJa9PYhi_IY0iAw0u_6sU1md-A7JLaBXn3MFJ7kGD5Oxh-9SO00D_du663wQheyHuXIZG0Z3EP275-HGSvajqltAI0TSp4LHcaZ9RK_qX7B4t13eynuuF_a2DjNElpsN2DYjxID1EGE0XUIqH6feLJzOOUl3rOjhzLmQk_fgpOxQWCBB-abjEiXubMf0ijEmdng10ScNQcfq9tsXQhqr2BXxwp4AELXa9TUPj8VvMuuC6y7kKp776CHStPWm3lm8DL9MvM04b-FeL4cWGUoC_Ctl0ngaX_pXLrBcfNZkdPGDmhj8BzdZ1sKmf1gG7ctMIKNGgfMQdGN3PtXBp3sVxK9ZZMWA09z65NvAEKE0_UHi723dAZ1-X9DDaYtGkJQT2eBUqI583ElGPVXaqMGQ2MHUjIMFqUYgwS6Vz4
