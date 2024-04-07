@@ -771,7 +771,7 @@ CCTV1（郴州线路）,http://zhibotv.cf/hoge.php?id=hnczcctv1
 昌吉综合,http://zhibotv.cf/gdy.php?id=cjzh
 昌吉城市生活,http://zhibotv.cf/gdy.php?id=cjcssh
 儋州台 海南,http://zhibotv.cf/gdy.php?id=dztv 
-CyberTV_888,#genre#
+CyberTV,#genre#
 
 松视1台,p2p://135.148.104.228:19806/65965a69000205b2a39437282edd171f
 
